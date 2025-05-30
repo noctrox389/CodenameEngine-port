@@ -12,7 +12,7 @@
       "type": "git",
       "dir": null,
       "ref": "custom-classes",
-      "url": "https://www.github.com/FNF-CNE-Devs/hscript-improved"
+      "url": "https://www.github.com/CodenameCrew/hscript-improved"
     },
     {
       "name": "openfl",
@@ -39,14 +39,14 @@
       "type": "git",
       "dir": null,
       "ref": "dev",
-      "url": "https://github.com/FNF-CNE-Devs/flixel"
+      "url": "https://github.com/CodenameCrew/flixel"
     },
     {
       "name": "flixel-addons",
       "type": "git",
       "dir": null,
       "ref": "dev",
-      "url": "https://github.com/FNF-CNE-Devs/flixel-addons"
+      "url": "https://github.com/CodenameCrew/flixel-addons"
     },
     {
       "name": "hxcpp",
@@ -79,7 +79,7 @@
       "type": "git",
       "dir": null,
       "ref": "master",
-      "url": "https://github.com/FNF-CNE-Devs/flxanimate"
+      "url": "https://github.com/CodenameCrew/flxanimate"
     }
   ]
 }
