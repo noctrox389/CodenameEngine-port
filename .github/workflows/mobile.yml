@@ -31,18 +31,18 @@ jobs:
         run: |
           haxelib setup ~/haxelib
           haxelib git lime https://github.com/noctrox389/lime
-          haxelib git hscript-improved https://www.github.com/FNF-CNE-Devs/hscript-improved
+          haxelib git hscript-improved https://github.com/CodenameCrew/hscript-improved
           haxelib install openfl 9.2.2
           haxelib install away3d
           haxelib install format
           haxelib install markdown
-          haxelib git flixel https://github.com/FNF-CNE-Devs/flixel
-          haxelib git flixel-addons https://github.com/FNF-CNE-Devs/flixel-addons
+          haxelib git flixel https://github.com/CodenameCrew/flixel
+          haxelib git flixel-addons https://github.com/CodenameCrew/flixel-addons
           haxelib git hxcpp https://github.com/noctrox389/hxcpp
           haxelib install hxvlc
           haxelib install hxdiscord_rpc
           haxelib git extension-androidtools https://github.com/MAJigsaw77/extension-androidtools.git
-          haxelib git flxanimate https://github.com/FNF-CNE-Devs/flxanimate
+          haxelib git flxanimate https://github.com/CodenameCrew/flxanimate
 
       - name: Configure Android
         run: |
